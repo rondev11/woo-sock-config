@@ -2,7 +2,7 @@
 /**
  * Plugin Name: WooCommerce Product Sock Configurator
  * Description: Allows customers to customize socks with patterns, colors, and additional options.
- * Version: 1.1
+ * Version: 1.2
  * Author: Ron Dionaldo
  */
 
